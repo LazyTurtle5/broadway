@@ -1,0 +1,21 @@
+body {
+	font-family: Helvetica;
+}
+
+
+#header {
+	background: url("../images/background.png");
+}
+
+#header h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+#header p a {
+	list-style-type: none;
+	font-size: 18px;
+	color: white;
+}
