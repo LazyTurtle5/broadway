@@ -2,8 +2,12 @@ body {
 	font-family: Helvetica;
 }
 
+/***********************************
+HEADER
+***********************************/
 
-#header {
+#header,
+#ny_title {
 	background: url("../images/background.png");
 }
 
@@ -19,3 +23,72 @@ body {
 	font-size: 18px;
 	color: white;
 }
+
+/***********************************
+OUR PROCESS SECTION
+***********************************/
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#identify,
+#understand,
+#execute{
+	text-align: center;
+}
+
+#identify h3,
+#understand h3,
+#execute h3{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#identify p,
+#understand p,
+#execute p{
+	font-size: 14px;
+}
+
+/***********************************
+NEW YORK SECTION
+***********************************/
+
+#ny_title {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+#portfolio,
+#team,
+#contact{
+	text-align: center;
+}
+
+#portfolio h3,
+#team h3,
+#contact h3{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#portfolio p,
+#team p,
+#contact p{
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
