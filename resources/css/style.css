@@ -19,7 +19,6 @@ HEADER
 }
 
 #header p a {
-	list-style-type: none;
 	font-size: 18px;
 	color: white;
 }
@@ -81,6 +80,27 @@ NEW YORK SECTION
 #team p,
 #contact p{
 	font-size: 14px;
+}
+
+/***********************************
+FOOTER SECTION
+***********************************/
+
+#footer {
+	background-color: dimgray;
+}
+
+#footer p {
+	display: inline;
+}
+
+#footer p a {
+	color: white;
+}
+
+span {
+	font-size: 11px;
+	color: white;
 }
 
 
